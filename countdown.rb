@@ -1,6 +1,6 @@
 #write your code here
 
-number = 0 
+number = 10
 
 def countdown(number)
   
